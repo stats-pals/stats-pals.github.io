@@ -1,0 +1,30 @@
+---
+title: "Books"
+---
+
+# Undergraduate level
+
+# Postgraduate level
+
+## Fundamental level
+
+## Intermediate level
+
+### [Introduction to statistics for experiments with R](https://singmann.github.io/stats_for_experiments/) 
+
+By: Henrik Singmann
+
+This book provides an introduction to research methods and statistics mostly for experimental research in psychology and related disciplines. In contrast to other introductory texts, it tries to stay light on the mathematics and instead focus on the logic and practical application of statistical methods to actual research data. For performing statistical analyses, we will be using the statistical programming language R.
+
+## Advanced level
+
+### [Statistics: Data analysis and modelling](https://mspeekenbrink.github.io/sdam-book/). 
+By: Maarten Speekenbrink
+
+This book provides an introduction to data analysis from a model comparison approach. It provides a thorough introduction to the General Linear Model, and extensions into linear mixed-effects models, generalized linear models, structural equation models, and Bayesian analysis and model comparison. All examples are based on real data from various experiments and sources. The book has an associated R package, called `sdamr`, which contains the datasets and a limited number of functions.  
+
+### [An R companion to Statistics: Data analysis and modelling](https://mspeekenbrink.github.io/sdam-r-companion/) 
+By: Maarten Speekenbrink
+
+This book provides details on implementing the models and analyses discussed in *Statistics: Data analysis and modelling* with R. It provides a brief general introduction to R, and then mainly focuses on particular analyses and packages. The book is not intended as a full-fledged course on R. It mostly avoids the tidyverse.
+

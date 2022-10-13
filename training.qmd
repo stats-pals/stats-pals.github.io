@@ -1,0 +1,16 @@
+---
+title: "Training"
+---
+
+In addition to the modules taught to UCL students, we offer shorter training courses and workshops for a wider audience. Details of upcoming courses and workshops will be provided here. 
+
+## Upcoming courses and workshops
+
+There are currently no courses or workshops planned
+
+## Past courses and workshops
+
+### Introduction to mixture and hidden Markov models
+
+**Format**: 1 day workshop  
+**Lecturer**: Maarten Speekenbrink  

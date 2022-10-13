@@ -1,0 +1,5 @@
+---
+title: "stats-PALS"
+---
+
+Welcome to stats-PALS. We are a group of scientists at the [Division of Psychology and Language Sciences](https://www.ucl.ac.uk/pals/)  at [University College London](https://www.ucl.ac.uk) (UCL), involved in statistics teaching and developing methodological and statistical techniques and tools.

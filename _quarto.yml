@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "stats-PALS"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - people.qmd
+      - books.qmd
+      - href: r-packages.qmd
+        text: R packages
+      - consultancy.qmd
+      - training.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,8 @@
+---
+title: "R packages"
+---
+
+## [afex](https://github.com/hsingmann/afex/)
+
+## [sdamr](https://github.com/mspeekenbrink/sdam-r/)
+

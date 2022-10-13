@@ -1,0 +1,5 @@
+---
+title: "Consultancy"
+---
+
+We offer consultancy to scientists and businesses. We have expertise in a wide variety of data science techniques. Consultancy is usually on a paid basis, but for academic projects, can also be based on co-authorship.
